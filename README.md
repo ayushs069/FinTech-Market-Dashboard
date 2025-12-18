@@ -323,6 +323,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Ayush Sharma**
 
 - GitHub: [@ayushs069](https://github.com/ayushs069)
+- Email: ayush.singh230306@gmail.com
 
 ---
 
