@@ -320,10 +320,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Ayush Sharma**
+**Ayush Singh**
 
 - GitHub: [@ayushs069](https://github.com/ayushs069)
 - Email: ayush.singh230306@gmail.com
+
+---
+
+## 👥 Team Members
+
+- **Prateek Yadav** 
+- **Tushar Tyagi**
 
 ---
 
